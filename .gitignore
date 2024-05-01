@@ -4,3 +4,4 @@ book
 *.iws
 *.iml
 *.ipr
+.env
